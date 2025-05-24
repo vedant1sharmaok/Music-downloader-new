@@ -1,0 +1,8 @@
+pyrogram
+tgcrypto
+pymongo
+yt-dlp
+ffmpeg-python
+spotdl
+python-dotenv
+aiohttp
