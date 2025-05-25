@@ -10,4 +10,3 @@ async def settings_handler(client, message):
         "2. Quality Selection\n"
         "3. Language (coming soon)"
     )
-)
