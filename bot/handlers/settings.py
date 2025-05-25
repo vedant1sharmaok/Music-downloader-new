@@ -8,4 +8,4 @@ def settings_handler(app):
 
 1. Format
 2. Quality
-3. Language (coming soon)")
+3. Language (coming soon))
